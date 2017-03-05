@@ -1,6 +1,6 @@
 {
   "name": "long-term-cache-webpack-plugin",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Yet another webpack long-term-caching plugin",
   "scripts": {
     "dev": "bash -c 'webpack-dev-server --env=dev --debug --watch --progress --colors --profile'",
@@ -19,9 +19,9 @@
   "author": "Salieri",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zyh825/webpack-long-term-caching-plugin/issues"
+    "url": "https://github.com/zyh825/long-term-cache-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/zyh825/webpack-long-term-caching-plugin#readme",
+  "homepage": "https://github.com/zyh825/long-term-cache-webpack-plugin#readme",
   "dependencies": {
     "chalk": "^1.1.3"
   },
