@@ -1,5 +1,4 @@
 .vscode
-test
 node_modules
 webpack-assets-stats.json
 dist/*
