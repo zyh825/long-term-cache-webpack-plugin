@@ -1,5 +1,5 @@
 const path = require('path');
-const LongTermCachingPlugin = require('./lib/index');
+const LongTermCachePlugin = require('./lib/index');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 const config = {
@@ -26,7 +26,7 @@ module.exports = {
       disable: false,
       allChunks: true,
     }),
-    new LongTermCachingPlugin({
+    new LongTermCachePlugin({
       srcPath: config.srcPath,
       distPath: config.distPath,
       replaceRules: [
