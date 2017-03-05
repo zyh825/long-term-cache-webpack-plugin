@@ -1,0 +1,34 @@
+{
+  "name": "long-term-cache-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Yet another webpack long-term-caching plugin",
+  "scripts": {
+    "dev": "bash -c 'webpack-dev-server --env=dev --debug --watch --progress --colors --profile'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zyh825/long-term-cache-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "long-term-caching",
+    "plugin"
+  ],
+  "author": "Salieri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyh825/webpack-long-term-caching-plugin/issues"
+  },
+  "homepage": "https://github.com/zyh825/webpack-long-term-caching-plugin#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "css-loader": "^0.26.2",
+    "extract-text-webpack-plugin": "^2.0.0",
+    "file-loader": "^0.10.1",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
