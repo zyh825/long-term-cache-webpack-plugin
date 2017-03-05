@@ -1,3 +1,5 @@
+[![npm][npm]][npm-url]
+[![node][node]][node-url]
 [![Build Status](https://travis-ci.org/zyh825/long-term-cache-webpack-plugin.svg?branch=master)](https://travis-ci.org/zyh825/long-term-cache-webpack-plugin)
 # Webpack long term cache plugin
 
@@ -37,3 +39,8 @@ module.exports = {
   ],
 }
 ```
+[npm]: https://img.shields.io/npm/v/long-term-cache-webpack-plugin.svg
+[npm-url]: https://npmjs.com/package/long-term-cache-webpack-plugin
+
+[node]: https://img.shields.io/node/v/long-term-cache-webpack-plugin.svg
+[node-url]: https://nodejs.org
