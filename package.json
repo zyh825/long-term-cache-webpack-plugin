@@ -1,6 +1,6 @@
 {
   "name": "long-term-cache-webpack-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Yet another webpack long-term-caching plugin",
   "scripts": {
     "dev": "bash -c 'webpack-dev-server --env=dev --debug --watch --progress --colors --profile'",
