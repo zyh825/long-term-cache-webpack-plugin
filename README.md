@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/zyh825/long-term-cache-webpack-plugin.svg?branch=master)](https://travis-ci.org/zyh825/long-term-cache-webpack-plugin)
 # Webpack long term cache plugin
 
+This project is just for learning, don't be serious! <( _ _ )>
+Any suggestions is wellcome!
 Install dependences, run `npm run dev` to checkout what happened in `/example`
 
 @reference: https://webpack.github.io/docs/long-term-caching.html
